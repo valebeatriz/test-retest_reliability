@@ -1,6 +1,6 @@
 # Node-based connectome metrics pipeline
 
-MATLAB pipeline that parcellates HCP resting-state fMRI (Schaefer 400, Yeo 7 networks), computes functional connectivity (FC), and tests its test-retest reliability with:
+MATLAB pipeline that parcellates HCP resting-state fMRI (Schaefer 400, Yeo 7 networks), computes functional connectivity (FC) and tests its test-retest reliability with the following metrics:
 
 - edge-level ICC, averaged within each network
 - connectome-level ICC (one value per subject)
