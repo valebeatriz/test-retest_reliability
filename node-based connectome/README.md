@@ -1,4 +1,4 @@
-# HCP Connectome Fingerprinting & Reliability Pipeline
+# Node-based connectome metrics pipeline
 
 MATLAB pipeline that parcellates HCP resting-state fMRI (Schaefer 400, Yeo 7 networks), computes functional connectivity (FC), and tests its test-retest reliability with:
 
